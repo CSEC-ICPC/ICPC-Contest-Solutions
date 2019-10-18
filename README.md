@@ -4,7 +4,7 @@ This repository contains sample solutions to programming problems in preparation
 
 # Contributing
 
-If you have any new solutions you can create an issue or a pull request and we will be happy to merge with your additions.
+If you have any new solutions you can create an issue or a pull request and we will be happy to merge with your additions. Don't forget to organize your solutions by folder with the name of the contest or question id.
 Follow this insrcutions to create your pull request
 
 1. Fork the repository.
